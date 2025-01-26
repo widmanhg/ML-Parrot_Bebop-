@@ -16,7 +16,7 @@ This project integrates the Parrot Bebop drone with YOLOv8 for real-time object 
 ### Video Demo
 Check out the drone detecting objects and navigating autonomously in real-time:
 
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=F8fkqyVmGgs)
 
 *Click the image to watch the video.*
 
