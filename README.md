@@ -24,8 +24,8 @@ Check out the drone detecting objects and navigating autonomously in real-time:
 
 ### Sample Image
 Below is an example of YOLOv8 detecting objects in a drone video frame:
+![WhatsApp Image 2025-01-25 at 18 54 18_b57a299b](https://github.com/user-attachments/assets/a21e760d-e859-463b-aa36-0d5be3a2c9d0)
 
-![YOLO Detection Example](path/to/detected_image.jpg)
 
 ---
 
@@ -34,11 +34,4 @@ Below is an example of YOLOv8 detecting objects in a drone video frame:
 - **Parrot Bebop drone**
 - **YOLOv8 Model (`best.pt`)**: Download it from [Roboflow](https://universe.roboflow.com/window/window-labeling).
 
----
 
-## Setup Instructions
-
-### Step 1: Clone the Repository
-```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
